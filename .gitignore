@@ -1,0 +1,4 @@
+node_modules
+rabbitmq
+rabbitmq-data
+.env
